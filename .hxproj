@@ -1,0 +1,35 @@
+{
+  "common": {
+    "name": "massive",
+    "sources": [
+      "src"
+    ],
+    "flags": [],
+    "prepend": null,
+    "prependFile": null,
+    "resources": {},
+    "libraries_haxe": {
+      "tink_await":"*",
+      "tink_macro":"*",
+      "tink_core":"*",
+      "tink_syntaxhub":"*"
+    },
+    "libraries_reg": {}
+  },
+  "solutions": {
+    "nullcoal": {
+      "target": "python",
+      "out_dir": "bin",
+      "out_bin": "nullcoal",
+      "main": "Main",
+      "name": null,
+      "sources": [],
+      "flags": [],
+      "prepend": null,
+      "prependFile": null,
+      "resources": {},
+      "libraries_haxe": {},
+      "libraries_reg": {}
+    }
+  }
+}
