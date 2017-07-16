@@ -1,0 +1,16 @@
+{
+  "name": "NullCoalesce",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["null","coalesce","conditional","condition"],
+  "description": "Null Coalescing for haxe.",
+  "contributors": ["epidevJosh"],
+  "releasenote": "Initial version",
+  "version": "1.0.0",
+  "url": "https://github.com/Montycarlo/NullCoalesce.hx",
+  "dependencies": {
+    "tink_macro": "",
+    "tink_core": "",
+    "tink_syntaxhub": ""
+  }
+}

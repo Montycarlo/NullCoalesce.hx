@@ -1,6 +1,6 @@
 {
   "common": {
-    "name": "massive",
+    "name": "NullCoalesce",
     "sources": [
       "src"
     ],
@@ -9,7 +9,6 @@
     "prependFile": null,
     "resources": {},
     "libraries_haxe": {
-      "tink_await":"*",
       "tink_macro":"*",
       "tink_core":"*",
       "tink_syntaxhub":"*"

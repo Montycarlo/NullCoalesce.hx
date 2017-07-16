@@ -1,5 +1,5 @@
 
-## nullcoal.hx
+## NullCoalesce.hx
 Null Coalescing operator `||~` for Haxe.  
 
 The Null-Coalescing operator is a relatively recent addition to multiple languages, including PHP<sup>[[1][1]]</sup> and C#<sup>[[2][2]]</sup>, which I thought was a handy addition. 
